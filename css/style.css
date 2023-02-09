@@ -223,21 +223,6 @@ transform: translate(-1px);
 visibility: visible;
 transform: translate(-1px);
 }}
-.n::after{
-    position:absolute;
-    content: "3";
-    top: 318px;
-    left: 13px;
-    font-size: 2em;
-    padding: 15px 27px;
-    background-color: white;
-    border-radius: 50%;
-    animation: lol2;
-    animation-delay: 0s;
-    animation-duration: 5s;
-    animation-iteration-count: 1;
-    visibility: hidden ;
-}
 @keyframes lol2 {
 0%{
     visibility: visible;
