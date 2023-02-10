@@ -199,10 +199,6 @@ button{
 }
 .nnn{
     margin-top: 80px;
-    animation: lol;
-    animation-duration: 200s;
-    visibility: hidden;
-    animation-delay: 70s;
 }
 h5{
     font-size: 1.2em;
